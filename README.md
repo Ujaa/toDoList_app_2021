@@ -1,4 +1,4 @@
-# todolist_app_2021
+# todolist app 2021
 This is my first to do list website. :)  
 I tried to copy the Momentum, taking the Nomadcoder VanillaJS Course.
 
